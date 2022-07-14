@@ -1,0 +1,42 @@
+D:\Codigo\Proyecto Intermedio\InglesIntermedio\CapaLogica\bin\Debug\CapaLogica.dll
+D:\Codigo\Proyecto Intermedio\InglesIntermedio\CapaLogica\bin\Debug\CapaLogica.pdb
+D:\Codigo\Proyecto Intermedio\InglesIntermedio\CapaLogica\bin\Debug\CapaDatos.dll
+D:\Codigo\Proyecto Intermedio\InglesIntermedio\CapaLogica\bin\Debug\EntityFramework.dll
+D:\Codigo\Proyecto Intermedio\InglesIntermedio\CapaLogica\bin\Debug\EntityFramework.SqlServer.dll
+D:\Codigo\Proyecto Intermedio\InglesIntermedio\CapaLogica\bin\Debug\CapaDatos.pdb
+D:\Codigo\Proyecto Intermedio\InglesIntermedio\CapaLogica\bin\Debug\CapaDatos.dll.config
+D:\Codigo\Proyecto Intermedio\InglesIntermedio\CapaLogica\bin\Debug\EntityFramework.xml
+D:\Codigo\Proyecto Intermedio\InglesIntermedio\CapaLogica\bin\Debug\EntityFramework.SqlServer.xml
+D:\Codigo\Proyecto Intermedio\InglesIntermedio\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+D:\Codigo\Proyecto Intermedio\InglesIntermedio\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+D:\Codigo\Proyecto Intermedio\InglesIntermedio\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+D:\Codigo\Proyecto Intermedio\InglesIntermedio\CapaLogica\obj\Debug\CapaLogica.dll
+D:\Codigo\Proyecto Intermedio\InglesIntermedio\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\000 WorkGroup\Proyecto Intermedio\InglesIntermedio\CapaLogica\bin\Debug\CapaLogica.dll
+C:\000 WorkGroup\Proyecto Intermedio\InglesIntermedio\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\000 WorkGroup\Proyecto Intermedio\InglesIntermedio\CapaLogica\bin\Debug\CapaDatos.dll
+C:\000 WorkGroup\Proyecto Intermedio\InglesIntermedio\CapaLogica\bin\Debug\EntityFramework.dll
+C:\000 WorkGroup\Proyecto Intermedio\InglesIntermedio\CapaLogica\bin\Debug\EntityFramework.SqlServer.dll
+C:\000 WorkGroup\Proyecto Intermedio\InglesIntermedio\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\000 WorkGroup\Proyecto Intermedio\InglesIntermedio\CapaLogica\bin\Debug\CapaDatos.dll.config
+C:\000 WorkGroup\Proyecto Intermedio\InglesIntermedio\CapaLogica\bin\Debug\EntityFramework.xml
+C:\000 WorkGroup\Proyecto Intermedio\InglesIntermedio\CapaLogica\bin\Debug\EntityFramework.SqlServer.xml
+C:\000 WorkGroup\Proyecto Intermedio\InglesIntermedio\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\000 WorkGroup\Proyecto Intermedio\InglesIntermedio\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\000 WorkGroup\Proyecto Intermedio\InglesIntermedio\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\000 WorkGroup\Proyecto Intermedio\InglesIntermedio\CapaLogica\obj\Debug\CapaLogica.dll
+C:\000 WorkGroup\Proyecto Intermedio\InglesIntermedio\CapaLogica\obj\Debug\CapaLogica.pdb
+D:\Codigo\InglesIntermedio\CapaLogica\bin\Debug\CapaLogica.dll
+D:\Codigo\InglesIntermedio\CapaLogica\bin\Debug\CapaLogica.pdb
+D:\Codigo\InglesIntermedio\CapaLogica\bin\Debug\CapaDatos.dll
+D:\Codigo\InglesIntermedio\CapaLogica\bin\Debug\EntityFramework.dll
+D:\Codigo\InglesIntermedio\CapaLogica\bin\Debug\EntityFramework.SqlServer.dll
+D:\Codigo\InglesIntermedio\CapaLogica\bin\Debug\CapaDatos.pdb
+D:\Codigo\InglesIntermedio\CapaLogica\bin\Debug\CapaDatos.dll.config
+D:\Codigo\InglesIntermedio\CapaLogica\bin\Debug\EntityFramework.xml
+D:\Codigo\InglesIntermedio\CapaLogica\bin\Debug\EntityFramework.SqlServer.xml
+D:\Codigo\InglesIntermedio\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+D:\Codigo\InglesIntermedio\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+D:\Codigo\InglesIntermedio\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+D:\Codigo\InglesIntermedio\CapaLogica\obj\Debug\CapaLogica.dll
+D:\Codigo\InglesIntermedio\CapaLogica\obj\Debug\CapaLogica.pdb

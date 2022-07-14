@@ -1,0 +1,36 @@
+D:\Codigo\Proyecto Intermedio\InglesIntermedio\CapaDatos\bin\Debug\CapaDatos.dll.config
+D:\Codigo\Proyecto Intermedio\InglesIntermedio\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Codigo\Proyecto Intermedio\InglesIntermedio\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Codigo\Proyecto Intermedio\InglesIntermedio\CapaDatos\bin\Debug\EntityFramework.dll
+D:\Codigo\Proyecto Intermedio\InglesIntermedio\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Codigo\Proyecto Intermedio\InglesIntermedio\CapaDatos\bin\Debug\EntityFramework.xml
+D:\Codigo\Proyecto Intermedio\InglesIntermedio\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Codigo\Proyecto Intermedio\InglesIntermedio\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Codigo\Proyecto Intermedio\InglesIntermedio\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\Codigo\Proyecto Intermedio\InglesIntermedio\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Codigo\Proyecto Intermedio\InglesIntermedio\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Codigo\Proyecto Intermedio\InglesIntermedio\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\000 WorkGroup\Proyecto Intermedio\InglesIntermedio\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\000 WorkGroup\Proyecto Intermedio\InglesIntermedio\CapaDatos\bin\Debug\CapaDatos.dll
+C:\000 WorkGroup\Proyecto Intermedio\InglesIntermedio\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\000 WorkGroup\Proyecto Intermedio\InglesIntermedio\CapaDatos\bin\Debug\EntityFramework.dll
+C:\000 WorkGroup\Proyecto Intermedio\InglesIntermedio\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\000 WorkGroup\Proyecto Intermedio\InglesIntermedio\CapaDatos\bin\Debug\EntityFramework.xml
+C:\000 WorkGroup\Proyecto Intermedio\InglesIntermedio\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\000 WorkGroup\Proyecto Intermedio\InglesIntermedio\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\000 WorkGroup\Proyecto Intermedio\InglesIntermedio\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\000 WorkGroup\Proyecto Intermedio\InglesIntermedio\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\000 WorkGroup\Proyecto Intermedio\InglesIntermedio\CapaDatos\obj\Debug\CapaDatos.dll
+C:\000 WorkGroup\Proyecto Intermedio\InglesIntermedio\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Codigo\InglesIntermedio\CapaDatos\bin\Debug\CapaDatos.dll.config
+D:\Codigo\InglesIntermedio\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Codigo\InglesIntermedio\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Codigo\InglesIntermedio\CapaDatos\bin\Debug\EntityFramework.dll
+D:\Codigo\InglesIntermedio\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Codigo\InglesIntermedio\CapaDatos\bin\Debug\EntityFramework.xml
+D:\Codigo\InglesIntermedio\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Codigo\InglesIntermedio\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\Codigo\InglesIntermedio\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Codigo\InglesIntermedio\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\Codigo\InglesIntermedio\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Codigo\InglesIntermedio\CapaDatos\obj\Debug\CapaDatos.pdb

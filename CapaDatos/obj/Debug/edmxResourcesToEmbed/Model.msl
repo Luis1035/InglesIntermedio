@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="dbIntermedioModelStoreContainer" CdmEntityContainer="dbIntermedioEntities">
+    <EntitySetMapping Name="Capitulo">
+      <EntityTypeMapping TypeName="dbIntermedioModel.Capitulo">
+        <MappingFragment StoreEntitySet="Capitulo">
+          <ScalarProperty Name="IdCapitulo" ColumnName="IdCapitulo" />
+          <ScalarProperty Name="Capitulo_" ColumnName="Capitulo_" />
+          <ScalarProperty Name="IdCiclo" ColumnName="IdCiclo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ciclo">
+      <EntityTypeMapping TypeName="dbIntermedioModel.Ciclo">
+        <MappingFragment StoreEntitySet="Ciclo">
+          <ScalarProperty Name="IdCiclo" ColumnName="IdCiclo" />
+          <ScalarProperty Name="Ciclo_" ColumnName="Ciclo_" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Palabra">
+      <EntityTypeMapping TypeName="dbIntermedioModel.Palabra">
+        <MappingFragment StoreEntitySet="Palabra">
+          <ScalarProperty Name="IdPalabra" ColumnName="IdPalabra" />
+          <ScalarProperty Name="Palabra_" ColumnName="Palabra_" />
+          <ScalarProperty Name="Traduccion" ColumnName="Traduccion" />
+          <ScalarProperty Name="Observacion" ColumnName="Observacion" />
+          <ScalarProperty Name="IdCapitulo" ColumnName="IdCapitulo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
